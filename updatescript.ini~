@@ -5,7 +5,6 @@ releases{
 1.3
 1.62
 2.71
-2.72
 }
 
 release:1.0{}
@@ -286,9 +285,4 @@ DownloadFile:arena_obj.s3d
 DownloadFile:arena2_obj.s3d
 DownloadFile:arena.txt,maps\
 DownloadFile:arena2.txt,maps\
-}
-
-release:2.72{
-DeleteFile:Resources\loadscreen.jpg
-DownloadFile:loadscreen.jpg,Resources\
 }
