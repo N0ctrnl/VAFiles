@@ -1,0 +1,7 @@
+6
+gem,paineel_chr
+gef,paineel_chr
+gdm,unrest_chr
+fgh,fgh_chr
+tar,tar
+dke,dke

@@ -1,0 +1,17 @@
+16
+cst,cst
+ddm,ddm
+shi,shi
+avi,oot_chr
+gia,oot_chr
+fis,oot_chr
+pir,oot_chr
+mer,oot_chr
+qcm,oot_chr
+qcf,oot_chr
+liz,oot_chr
+pir,qeynos_chr
+T02,T02
+sha,erudnext_chr
+rkp,rkp
+tar,tar
