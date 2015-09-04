@@ -60,6 +60,7 @@ DeleteFile:nektulos.zon
 DeleteFile:Resources\globalload.txt
 DeleteFile:Resources\skillcaps.txt
 DeleteFile:Resources\basedata.txt
+DeleteFile:spells_us.txt
 }
 
 release:1.2{
@@ -217,6 +218,7 @@ DownloadFile:window_pieces07.tga,uifiles\Custom_old\
 DownloadFile:wnd_bg_dark_rock.tga,uifiles\Custom_old\
 DownloadFile:wnd_bg_light_rock.tga,uifiles\Custom_old\
 DownloadFile:BaseData.txt,Resources\
+DownloadFile:spells_us.txt
 }
 
 release:1.62{
@@ -331,16 +333,4 @@ DeleteFile:Secrets_of_Faydwer_Manual.pdf
 DeleteFile:The_Buried_Sea_Manual.pdf
 DeleteFile:tss_manual.pdf
 DeleteFile:Darkhollow_Manual.pdf
-}
-
-release:3.1{
-DownloadFile:steamfontmts.txt,maps\
-DownloadFile:steamfontmts_1.txt,maps\
-DownloadFile:steamfontmts_2.txt,maps\
-DownloadFile:steamfontmts_3.txt,maps\
-DownloadFile:lavastorm.txt,maps\
-DownloadFile:lavastorm_1.txt,maps\
-DownloadFile:lavastorm_2.txt,maps\
-DownloadFile:lavastorm_3.txt,maps\
-DownloadFile:spells_us.txt
 }
