@@ -6,6 +6,7 @@ releases{
 1.62
 2.71
 2.73
+3.0
 }
 
 release:1.0{}
@@ -59,7 +60,6 @@ DeleteFile:nektulos.zon
 DeleteFile:Resources\globalload.txt
 DeleteFile:Resources\skillcaps.txt
 DeleteFile:Resources\basedata.txt
-DeleteFile:spells_us.txt
 }
 
 release:1.2{
@@ -217,7 +217,6 @@ DownloadFile:window_pieces07.tga,uifiles\Custom_old\
 DownloadFile:wnd_bg_dark_rock.tga,uifiles\Custom_old\
 DownloadFile:wnd_bg_light_rock.tga,uifiles\Custom_old\
 DownloadFile:BaseData.txt,Resources\
-DownloadFile:spells_us.txt
 }
 
 release:1.62{
@@ -291,4 +290,57 @@ DownloadFile:arena2.txt,maps\
 release:2.73{
 DeleteFile:Resources\loadscreen.jpg
 DownloadFile:loadscreen.jpg,Resources\
+}
+
+release:3.0{
+DownloadFile:eqlsClient.ini
+DownloadFile:EQLS_background_01.tga,uifiles\default\
+DownloadFile:EQLS_background_02.tga,uifiles\default\
+DownloadFile:EQLS_background_03.tga,uifiles\default\
+DownloadFile:EQLS_background_04.tga,uifiles\default\
+DownloadFile:EQLS_background_05.tga,uifiles\default\
+DownloadFile:EQLS_background_06.tga,uifiles\default\
+DownloadFile:EQLS_SOESplash01.tga,uifiles\default\
+DownloadFile:EQLS_SOESplash02.tga,uifiles\default\
+DownloadFile:EQLS_SOESplash03.tga,uifiles\default\
+DownloadFile:EQLS_SOESplash04.tga,uifiles\default\
+DownloadFile:EQLS_SOESplash05.tga,uifiles\default\
+DownloadFile:EQLS_SOESplash06.tga,uifiles\default\
+DownloadFile:EQLS_SOESplash07.tga,uifiles\default\
+DownloadFile:EQLS_SOESplash08.tga,uifiles\default\
+DownloadFile:EQLS_SOESplash09.tga,uifiles\default\
+DownloadFile:EQLS_SOESplash10.tga,uifiles\default\
+DownloadFile:EQLS_SOESplash11.tga,uifiles\default\
+DownloadFile:EQLS_SOESplash12.tga,uifiles\default\
+DownloadFile:EQLSUI_ConnectWnd.xml,uifiles\default\
+DownloadFile:EQLSUI_MainWnd.xml,uifiles\default\
+DownloadFile:EQLSUI_SOESplashWnd.xml,uifiles\default\
+DownloadFile:EQLS_window_pieces_01.tga,uifiles\default\
+DownloadFile:EQLS_window_pieces_02.tga,uifiles\default\
+DownloadFile:EQLS_WndBorder_01.tga,uifiles\default\
+DownloadFile:EQLS_WndBorder_02.tga,uifiles\default\
+DownloadFile:EQLS_WndBorder_03.tga,uifiles\default\
+DownloadFile:EQLS_WndBorder_04.tga,uifiles\default\
+DownloadFile:EQLS_WndBorder_05.tga,uifiles\default\
+DownloadFile:EQLS_WndBorder_06.tga,uifiles\default\
+DeleteFile:EverQuest Seeds Of Destruction Quick Start Guide.pdf
+DeleteFile:gates_manual.pdf
+DeleteFile:Omens_MANUAL.pdf
+DeleteFile:prophecy_of_ro.pdf
+DeleteFile:Secrets_of_Faydwer_Manual.pdf
+DeleteFile:The_Buried_Sea_Manual.pdf
+DeleteFile:tss_manual.pdf
+DeleteFile:Darkhollow_Manual.pdf
+}
+
+release:3.1{
+DownloadFile:steamfontmts.txt,maps\
+DownloadFile:steamfontmts_1.txt,maps\
+DownloadFile:steamfontmts_2.txt,maps\
+DownloadFile:steamfontmts_3.txt,maps\
+DownloadFile:lavastorm.txt,maps\
+DownloadFile:lavastorm_1.txt,maps\
+DownloadFile:lavastorm_2.txt,maps\
+DownloadFile:lavastorm_3.txt,maps\
+DownloadFile:spells_us.txt
 }
