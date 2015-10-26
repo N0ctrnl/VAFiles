@@ -1,4 +1,4 @@
-25
+26
 bdr,bdr
 cub,fearplane_chr
 SNK,SNK
@@ -24,3 +24,4 @@ rdg,rdg
 gfc,gfc
 skb,ponightmare_chr
 prt,prt
+nmg,ponightmare_chr
