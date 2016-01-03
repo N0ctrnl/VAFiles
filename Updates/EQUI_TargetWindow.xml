@@ -465,7 +465,7 @@
 <TextureInfo item = "TargetBox.tga">
 <Size>
 <CX>128</CX>
-<CY>38</CY>
+<CY>32</CY>
 </Size>
 </TextureInfo>
 
@@ -2238,8 +2238,8 @@
 		<Pieces>A_TargetBoxStaticAnimFill</Pieces>
 		<Pieces>Target_BuffWindow</Pieces>
 		<Pieces>TW_Pet_HP2</Pieces>
-		<Pieces>Target_PetHPPercent2</Pieces>
-		<Pieces>Target_PetHPPercentSymbol2</Pieces>
+		<!--		<Pieces>Target_PetHPPercent2</Pieces>
+		<Pieces>Target_PetHPPercentSymbol2</Pieces> -->
 		<Pieces>TargetOfTarget_HP2</Pieces>
 		<Pieces>TargetOfTarget_HPLabel2</Pieces>
 		<Pieces>TargetOfTarget_HPPercLabel2</Pieces>
