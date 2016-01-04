@@ -205,6 +205,7 @@
 		<Include>EQUI_ShareWnd.xml</Include>
 		<Include>EQUI_AggroMeterWnd.xml</Include>
 		<Include>EQUI_BazaarConfirmationWnd.xml</Include>
+		<Include>EQUI_LeadershipWnd.xml</Include>
 	</Composite>
 
 	<Schema xmlns = "EverQuestData" xmlns:dt = "EverQuestDataTypes"/>
