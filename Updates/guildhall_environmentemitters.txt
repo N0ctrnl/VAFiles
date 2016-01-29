@@ -1,0 +1,3 @@
+Name^EmitterDefIdx^X^Y^Z^Lifespan
+scotty'sbigbeam^56^-24.423740^-133.593536^0.810780^9999999
+furnace^58^83.024750^-132.147751^5.775860^999999
