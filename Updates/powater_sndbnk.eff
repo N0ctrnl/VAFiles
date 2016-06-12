@@ -1,0 +1,13 @@
+EMIT
+imp_talk
+chimes_underwater
+pipe_underwater
+fish_swim_by_lg
+fish_swim_by_med
+fish_swim_by_sml
+bell_underwater
+LOOP
+slargh_chant_lp
+siren_song_lp
+water_sway_lp
+wind_corr_lp

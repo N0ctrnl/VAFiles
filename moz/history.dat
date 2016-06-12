@@ -1,0 +1,87 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (8A=Typed)(8B=LastPageVisited)(8C=ByteOrder)
+  (80=ns:history:db:row:scope:history:all)
+  (81=ns:history:db:table:kind:history)(82=URL)(83=Referrer)
+  (84=LastVisitDate)(85=FirstVisitDate)(86=VisitCount)(87=Name)
+  (88=Hostname)(89=Hidden)>
+
+<(80=LE)(81=https://www.google.com/)(85=1465432036081588)(82
+    =1465431986445749)(83=google.com)(84=G$00o$00o$00g$00l$00e$00)(86=2)
+  (87
+    =https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http\
+s://www.google.com/)(88=1465432259851387)(89=accounts.google.com)(8A
+    =S$00i$00g$00n$00 $00i$00n$00 $00-$00 $00G$00o$00o$00g$00l$00e$00 $00A$00c\
+$00c$00o$00u$00n$00t$00s$00)(8B=https://www.vegarlson-server.org/)(8C
+    =1465432323798044)(8D=vegarlson-server.org)(8E
+    =A$00p$00a$00c$00h$00e$00 $00H$00T$00T$00P$00 $00S$00e$00r$00v$00e$00r$00 \
+$00T$00e$00s$00t$00 $00P$00a$00g$00e$00 $00p$00o$00w$00e$00r$00e$00d$00 $00b$00\
+y$00 $00C$00e$00n$00t$00O$00S$00)(8F=http://www.vegarlson-server.org/)
+  (B8=1465631564314133)(90=1465432392856994)(91
+    =V$00e$00g$00a$00r$00l$00s$00o$00n$00 $00A$00s$00y$00l$00u$00m$00 $00A$00n\
+$00 $00E$00Q$00E$00m$00u$00 $00S$00e$00r$00v$00e$00r$00)(B9=5)(92
+    =http://www.vegarlson-server.org/index.php?PHPSESSID=5e8v682pg3tboc4rg3bak\
+5hcn2&action=login2)(93=1465432403318592)(94=1)(95
+    =http://www.vegarlson-server.org/index.php?action=login2;sa=check;member=1)
+  (96=http://www.vegarlson-server.org/index.php?action=forum)(97
+    =V$00e$00g$00a$00r$00l$00s$00o$00n$00 $00A$00s$00y$00l$00u$00m$00 $00-$00 \
+$00F$00o$00r$00u$00m$00s$00)(98=https://discord.gg/0or8hogCf1ZflK7L)
+  (99=1465432418478460)(9A=discord.gg)(9B
+    =https://discordapp.com/invite/0or8hogCf1ZflK7L)(9C=discordapp.com)
+  (9D=D$00i$00s$00c$00o$00r$00d$00)(9E
+    =http://www.vegarlson-server.org/index.php?action=profile;u=191)
+  (9F=1465432471681503)(A0=V$00e$00g$00a$00r$00l$00s$00o$00n$00 $00A$00s$00y$00\
+l$00u$00m$00)(A1=http://www.vegarlson-server.org/index.php?action=alla)
+  (BA=1465631583906253)(A2=1465432477738849)(A3=A$00l$00l$00a$00C$00l$00o$00n$00\
+e$00)(AD=3)(A4=http://www.vegarlson-server.org/alla/index.php)(A5
+    =http://www.vegarlson-server.org/index.php?action=charbrowser)(BB
+    =1465631598009060)(A6=1465432491983664)(A7=C$00h$00a$00r$00a$00c$00t$00e$00\
+r$00s$00)(A8=http://www.vegarlson-server.org/charbrowser/index.php)
+  (A9=C$00h$00a$00r$00a$00c$00t$00e$00r$00 $00B$00r$00o$00w$00s$00e$00r$00 $00\
+$FD$FF $00B$00e$00 $00N$00o$00s$00e$00y$00)(AA
+    =http://www.vegarlson-server.org/index.php?action=helpdesk;sa=main)
+  (B7=1465433667431079)(AF=4)(B4
+    =http://www.vegarlson-server.org/index.php?action=pm)(B5
+    =1465433290269506)(B6=P$00e$00r$00s$00o$00n$00a$00l$00 $00M$00e$00s$00s$00\
+a$00g$00e$00s$00 $00I$00n$00d$00e$00x$00)>
+{1:^80 {(k^81:c)(s=9)[1(^8C=LE)]} 
+  [2(^82^81)(^84^85)(^85^82)(^88^83)(^87^84)(^86=2)]
+  [3(^82^87)(^84^88)(^85^88)(^83^81)(^88^89)(^87^8A)]
+  [4(^82^8B)(^84^8C)(^85^8C)(^88^8D)(^87^8E)]
+  [5(^82^8F)(^84^B8)(^85^90)(^88^8D)(^87^91)(^86=5)]
+  [6(^82^92)(^84^93)(^85^93)(^83^8F)(^88^8D)(^89=1)]
+  [7(^82^95)(^84^93)(^85^93)(^83^8F)(^88^8D)(^89=1)]
+  [8(^82^96)(^84^93)(^85^93)(^83^8F)(^88^8D)(^87^97)]
+  [9(^82^98)(^84^99)(^85^99)(^83^96)(^88^9A)(^89=1)]
+  [A(^82^9B)(^84^99)(^85^99)(^83^96)(^88^9C)(^87^9D)]
+  [B(^82^9E)(^84^9F)(^85^9F)(^83^96)(^88^8D)(^87^A0)]
+  [C(^82^A1)(^84^BA)(^85^A2)(^83^9E)(^88^8D)(^87^A3)(^86=3)]
+  [D(^82^A4)(^84^BA)(^85^A2)(^83^A1)(^88^8D)(^89=1)(^86=3)]
+  [E(^82^A5)(^84^BB)(^85^A6)(^83^A1)(^88^8D)(^87^A7)(^86=3)]
+  [F(^82^A8)(^84^BB)(^85^A6)(^83^A5)(^88^8D)(^89=1)(^87^A9)(^86=3)]
+  [10(^82^AA)(^84^B7)(^85^A6)(^83^A5)(^88^8D)(^87^A0)(^86=4)]
+  [11(^82^B4)(^84^B5)(^85^B5)(^88^8D)(^87^B6)]}
+
+@$${11{@
+<(BC=1465656426573173)>[-E:^80(^82^A5)(^84^BC)(^85^A6)(^83^A1)(^88^8D)
+    (^87^A7)(^86=4)]
+[-F:^80(^82^A8)(^84^BC)(^85^A6)(^83^A5)(^88^8D)(^89=1)(^87^A9)(^86=4)]
+<(BD=1465656432499512)>[-10:^80(^82^AA)(^84^BD)(^85^A6)(^83^A5)(^88^8D)
+    (^87^A0)(^86=5)]
+<(BE=1465656437446795)(BF=6)>[-5:^80(^82^8F)(^84^BE)(^85^90)(^88^8D)
+    (^87^91)(^86=6)]
+[-C:^80(^82^A1)(^84^BD)(^85^A2)(^83^9E)(^88^8D)(^87^A3)(^86=4)]
+[-D:^80(^82^A4)(^84^BD)(^85^A2)(^83^A1)(^88^8D)(^89=1)(^86=4)]
+@$$}11}@
+
+@$${12{@
+<(C0=1465656455389821)>[-11:^80(^82^B4)(^84^C0)(^85^B5)(^88^8D)(^87^B6)
+    (^86=2)]
+@$$}12}@
+
+@$${13{@
+
+<(C1=http://www.vegarlson-server.org/index.php)(C2=1465656528817021)>
+{1:^80 {(k^81:c)(s=9)1 } [-12(^82^C1)(^84^C2)(^85^C2)(^83^B4)(^88^8D)
+    (^87^91)]}
+@$$}13}@
