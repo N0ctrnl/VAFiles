@@ -1,0 +1,9 @@
+May 2016
+<br><br>
+5/23/2016<br>
+- Adjusted some named spawns and drop rates on random drops in Sebilis.<br>
+- More AA cleanup in the general tab. Missed innate agility, but the rest should be capped at the proper number of ranks (up to PoP).<br>
+- Updated server source. Part of this included some UCS (chat channel) changes. Please join a channel and see if it works any better than it historically has.<br><br>
+
+5/16/2016<br>
+- 6 Boxing is now allowed!<br>

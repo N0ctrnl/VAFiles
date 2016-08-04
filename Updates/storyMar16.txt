@@ -1,0 +1,27 @@
+March 2016
+<br><br>
+3/30/2016<br>
+- Took a crack at fixing the Cursed script in Ssra. Hopefully this'll work better.<br>
+- Updated the patcher to remove some void portal particles in some zones.<br>
+- Nexus Scions will now see all forms of invis. This means they should port you while invisible now.<br><br>
+
+3/23/2016<br>
+- The Sleeping Ogre in Nurga should now work properly.<br><br>
+
+3/20/2016<br>
+- Collector Dannel in The Bazaar will now take your Vegarlson 1-Year Anniversary Token and give you something special in return!<br>
+- Natasha Whitewater in Lake Rathetear script has been updated to work completely.<br><br>
+
+3/16/2016<br>
+- Changed Master Yael's spawn time to 3 days +/- 12 hours.<br><br>
+
+3/15/2016<br>
+- Updated to latest EQEmu source.<br>
+- Removed level requirement for Veeshan's Peak.<br>
+- New spells added and updated.<br><br>
+
+3/14/2016<br>
+- Race penalty removed for Brood of Di'Zok. Any race should be able to max out faction now.<br><br>
+
+3/6/2016<br>
+- Recordkeeper Durand in Nexus will now buy your junk! (Made him a vendor)<br>

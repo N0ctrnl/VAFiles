@@ -1,0 +1,8 @@
+April 2016
+<br><br>
+4/12/2016<br>
+- AAs should be fully updated. No ranks higher than PoP should be showing up. If you see any, please bug report them.<br>
+- Added Shadeweaver's zone files to the patcher.<br><br>
+
+4/2/2016<br>
+- Vendors will now hold onto items sold to them across reboots.<br>

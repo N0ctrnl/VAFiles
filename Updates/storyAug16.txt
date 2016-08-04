@@ -1,0 +1,7 @@
+August 2016
+<br><br>
+8/4/2016<br>
+- Added monthly changelogs to the storyline window.<br><br>
+8/3/2016
+<br>
+- Alla Clone now links directly to the VA database. All drop rates, locations, etc. pull directly from the running server data now.</li>

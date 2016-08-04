@@ -1,0 +1,41 @@
+February 2016
+<br><br>
+2/28/2016<br>
+- Items pickpocketed by a rogue will now stack in their inventory.<br><br>
+
+2/21/2016<br>
+- Fixed Cursed cycle in Ssra (I hope)<br>
+- Shissar Wraiths will now despawn after a length of time.<br>
+- High Priest of Ssraeshza will no longer be spawned below the world.<br>
+- Fear golems will now have the correct timer on their Cazic Touch.<br>
+- Correct respawn timers in Vex Thal. They aren't quite so quick now.<br><br>
+
+2/20/2016<br>
+- Added marquee pops for characters level 10 and under imploring them to come here and check out the website for server info and the patcher.<br><br>
+
+2/15/2016<br>
+- Timberwolf hagravens (Exotic Mounts) has now taken up residence in the Bazaar stables.<br>
+- New colored trader's satchels are in! See Merchant Tekramb (hee hee) in Bazaar to purchase! These should work like the regular ones. If one doesn't, throw in a bug report and I'll look at it.<br><br>
+
+2/13/2016<br>
+- Teleporter Zonfic in Nexus is no longer interested in buying anything. This will keep his inventory clear so you can easily buy port stones!<br>
+- Backstab will now work properly with bane weapons.<br>
+- Qua Zethon will no longer infinitely spawn in a loop with his shade spawn in Vex Thal.<br><br>
+
+2/9/2016<br>
+- Added Shadowrest zone files to the patcher. Some of the clients didn't have it.<br><br>
+
+2/3/2016<br>
+- Website stuff!<br>
+-- Character Browser - New Character Browser system! Check out the link at the top of the page. This will enable you to find characters just like on Magelo and see their gear and other things about them. In addition to that, it also has a list of what's currently for sale in the Bazaar. This is VERY cool and we're really glad to have it working!<br>
+-- Clicking on a name on the in-game leaderboard will now launch their profile page on the Character Browser. Try it!<br>
+-- The AllaClone has had unused zones removed. This should be helpful when trying to locate where items are found.<br><br>
+
+2/2/2016<br>
+- All disciplines should now show up in the Discipline windows.<br>
+- You may now pray in the chapel in Thurgadin (as designed) for an Etched Rune Pattern.<br>
+- Updated leaderboards to not display GMs.<br>
+- Modified some Discipline reuse timers that weren't long enough.<br><br>
+
+2/1/2016<br>
+- Updated a bunch of NPC models. Sarnak, Kerran, Siren, and others!<br>

@@ -1,0 +1,16 @@
+July 2016
+<br><br>
+7/18/2016
+<br>
+- Updated server code. This should fix a few issues you may or may not have known about.<br>
+- Increased the spawn rate of some of the longer spawning NPCs involved in the Veeshan's Peak key quest.<br>
+- Started loot correction/normalization efforts for Chardok.<br>
+<br>
+7/11/2016
+<br>
+- Added a leaderboard NPC outside the main bank in PoK. Recordkeeper Lethoc will let you know where you stand on the lists!
+<br><br>
+7/4/2016
+<br>
+- Fixed % not showing properly on some focus effect descriptions.<br>
+- Undead Bard should be fixed - for real this time. Watch for him after Trak dies.

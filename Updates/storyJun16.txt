@@ -1,0 +1,36 @@
+June 2016
+<br><br>
+6/30/2016<br>
+- Fixed the Rivervale stone in PoK. It'll port you now.<br><br>
+
+6/29/2016<br>
+- Shard of Hsagra's Talisman added back to their respective loot droppers. Get those Sleeper's Keys!<br>
+- Corrected a spell file issue.<br><br>
+
+6/23/2016<br>
+- Added more zones to the patcher update.<br>
+- Spell cleanup. Let us know if you see anything missing or wrong.<br><br>
+
+6/20/2016<br>
+- Increased drop rate on Velious armor gems. Should make it easier to gear up those new characters!<br><br>
+
+6/12/2016<br>
+- Pushed out all of the PoP zone files with this update. The sound files are removed, so if you have to have them, let me know and I can hook you up.<br>
+- Added in-game browser to the patcher. Also wrote some custom commands to bring up various parts of the website so you won't even have to leave EQ to look at the site!<br>
+-- Browser Commands:<br>
+--- #forum/forums/board - Forum index<br>
+--- #website/www/webpage - Main page of the website<br>
+--- #alla/allaclone/clone - Alla Clone<br>
+--- #char/character/characters - Character Browser<br>
+--- #bug/bugs - Bug Reports<br>
+--- #pm/message/messages - Private Messages<br><br>
+
+6/5/2016<br>
+- Added random drop experience potions! These can be found all over the world, but are level restricted as far as drops go. Don't try to farm greenies for them or you'll be disappointed.<br>
+- Added a message when looting a 1-year token. This should give a little more of a clue as to where they go.<br><br>
+
+6/3/2016<br>
+The Plane of Knowledge is now open!<br>
+- This is the first step in releasing Plane of Power. More zones will be coming soon.<br>
+- The leaderboard NPC will now be by the main bank in PoK.<br>
+- If you find out of era spells or items on vendors, please put in a bug report.<br><br>

@@ -1,0 +1,51 @@
+January 2016
+<br><br>
+1/29/2016<br>
+- Bots are now off for ALL ZONES except the instanced GH you are ported to by Teleporter Zonfic in The Nexus. GET YOUR GEAR OFF OF BOTS IMMEDIATELY! This is NOT a permanent change and won't be around forever.<br><br>
+
+1/28/2016<br>
+- The main rules and information post has been expanded to encompass several other posts. This is an effort to pull all information into one post instead of 5 different ones.<br>
+- As the first step in disabling bots, they no longer have any spell lists assigned to them. If you summon one and it doesn't heal you or anything, that's why. This is NOT a bug. :)<br>
+- Bots will be disabled in all zones except for an instanced version of GH. You can reach this instance to remove bot equipment by buying a "Bot Equipment Management" port stone from Teleporter Zonfic in Nexus. Some notes about this zone:<br>
+-- The timer on this instance is 1 hour. If it expires while you are inside, or if you camp out and don't come back before the timer expires, you will be ported to your bind point.<br>
+-- The only working #bot commands will be to manage equipment. No ports, buffs or anything else will work now.<br><br>
+
+1/25/2016<br>
+- Added a Soulbinder to The Nexus.<br><br>
+
+1/24/2016<br>
+- Teleporter Zonfic in The Nexus will now port you to various places around the world. He also sells Nexus gate potions so you can get back easily. Hopefully this will ease the pain of not having bots to port soon.<br><br>
+- Fixed a bug in the burrower event in The Deep (hopefully)<br>
+- All GM NPCs are now able to be located with the find menu.<br><br>
+
+1/16/2016<br>
+- Base resists will now show correctly! (Note: They were always working. It was just the display that was wrong)<br><br>
+
+1/14/2016<br>
+Ender/Qedd - Added the Nek Portal/Gate spells to the proper vendors.<br><br>
+
+1/13/2016<br>
+- Undead Bard should now spawn properly (16-20 hours) after Trak's death.<br><br>
+
+1/4/2016<br>
+- Updated AllaClone database. It's now current with spawns/loot.<br><br>
+
+1/3/2016<br>
+- Health of Target's Target (HoTT) window is now active! <br>
+- The #mystats command now works for everyone. Give it a shot :)<br>
+- Fixed loot drop on Neh`Ashiir regular and quest versions in City of Misty.<br>
+- Corrected drop table on Vulak`Aerr. He will now drop 3-4 items, and one of them will always be a weapon.<br>
+- Gath N`Mare has now returned home in Neriak Commons.<br>
+- Fixed the Kromrif Military Leggings quest (Shardwurm Broodmother) in Great Divide.<br>
+- Corrected Improved Familiar. It should be closer to correct now.<br>
+- Fixed spawn timers on Elder Though Horrors around THO.<br>
+- Removed a few out of era NPCs from Veeshan's Peak.<br><br>
+
+1/2/2016<br>
+- Updated knight defensive skills to match warrior. This includes defense, dodge, parry, riposte as well as bash and taunt.<br>
+- Yaulp V should now fade properly when the cleric sits down.<br>
+- Cloudy Potion is now self-only.<br>
+- Halo of Enlightening Barriers will no longer require a reagent.<br><br>
+
+1/1/2016<br>
+- Cloudy Potion will now work if you are already invisible.<br><br>
