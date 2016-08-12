@@ -2,9 +2,9 @@ August 2016
 <br><br>
 
 8/11/2016<br>
-Removed the connection to Arena from Bazaar. You can still get there the normal ways.<br>
-PvP now works in Arena!<br>
-Harm Touch no longer has a DOT component.<br><br>
+- Removed the connection to Arena from Bazaar. You can still get there the normal ways.<br>
+- PvP now works in Arena!<br>
+- Harm Touch no longer has a DOT component.<br><br>
 
 8/8/2016<br>
 - All Yaulp spells will now be cancelled by sitting.<br><br>
