@@ -1,7 +1,24 @@
 August 2016
 <br><br>
+
+8/11/2016<br>
+Removed the connection to Arena from Bazaar. You can still get there the normal ways.<br>
+PvP now works in Arena!<br>
+Harm Touch no longer has a DOT component.<br><br>
+
+8/8/2016<br>
+- All Yaulp spells will now be cancelled by sitting.<br><br>
+
+8/6/2016<br>
+- A new Gnomish trader has posted up outside Sleeper's Tomb in Eastern Wastes.<br>
+- Corrected loot tables for wurms in Veeshan's Peak. They now drop spells.<br><br>
+
+8/5/2016<br>
+- City arenas now work for PvP! This includes the Bazaar. Battle Royale time?<br><br>
+
 8/4/2016<br>
 - Added monthly changelogs to the storyline window.<br><br>
+
 8/3/2016
 <br>
-- Alla Clone now links directly to the VA database. All drop rates, locations, etc. pull directly from the running server data now.</li>
+- Alla Clone now links directly to the VA database. All drop rates, locations, etc. pull directly from the running server data now.
