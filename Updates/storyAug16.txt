@@ -1,5 +1,11 @@
 August 2016
 <br><br>
+8/19/2016<br>
+- Harm Touch has been changed. It will now show as 1 rank in the AA window (0 cost) for all Shadowknights. Please see a GM for a refund of AAs spent previously.<br>
+- Endless Quiver will no longer work with summoned arrows.<br><br>
+
+8/15/2016<br>
+- Mask of Nurga illusion (goblin) should now work properly.<br><br>
 
 8/11/2016<br>
 - Removed the connection to Arena from Bazaar. You can still get there the normal ways.<br>
