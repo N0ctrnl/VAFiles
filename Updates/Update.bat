@@ -4,8 +4,13 @@ IF %ERRORLEVEL% EQU 0 (
     ECHO Administrator PRIVILEGES Detected! 
     ECHO This will update your current directory with the
     ECHO latest Vegarlson Asylum client files.
+    ECHO ---------------------------------------------------------
+    ECHO THIS WILL DOWNLOAD FILES INTO THE CURRENT DIRECTORY.
+    ECHO IF YOU DON'T WANT CLIENT FILES HERE, PLEASE PRESS
+    ECHO CONTROL + C to EXIT THIS PROGRAM
+    ECHO ---------------------------------------------------------
     PAUSE
-    rsync.exe -avz update.vegarlson-server.org::vaclient .
+    rsync.exe -avzI update.vegarlson-server.org::vaclient .
 
 ) ELSE (
    echo ######## ########  ########   #######  ########  
