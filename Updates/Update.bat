@@ -5,7 +5,7 @@ IF %ERRORLEVEL% EQU 0 (
     ECHO This will update your current directory with the
     ECHO latest Vegarlson Asylum client files.
     PAUSE
-    rsync.exe -avz update.vegarlson-server.org::vaclient .
+    rsync.exe -avz update.vegarlson-server.org::vaclient
 
 ) ELSE (
    echo ######## ########  ########   #######  ########  
