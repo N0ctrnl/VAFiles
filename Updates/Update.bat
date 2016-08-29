@@ -10,8 +10,8 @@ IF %ERRORLEVEL% EQU 0 (
     ECHO CONTROL + C to EXIT THIS PROGRAM
     ECHO ---------------------------------------------------------
     PAUSE
+    del /F uifiles\loadscreens\*.*
     rsync.exe -avzI update.vegarlson-server.org::vaclient .
-
 ) ELSE (
    echo ######## ########  ########   #######  ########  
    echo ##       ##     ## ##     ## ##     ## ##     ## 
