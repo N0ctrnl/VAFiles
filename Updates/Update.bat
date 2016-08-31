@@ -1,17 +1,42 @@
+@echo off
+
+:: BatchGotAdmin
+:-------------------------------------
+REM  --> Check for permissions
+    IF "%PROCESSOR_ARCHITECTURE%" EQU "amd64" (
+>nul 2>&1 "%SYSTEMROOT%\SysWOW64\cacls.exe" "%SYSTEMROOT%\SysWOW64\config\system"
+) ELSE (
+>nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
+)
+
+REM --> If error flag set, we do not have admin.
+if '%errorlevel%' NEQ '0' (
+    echo Requesting administrative privileges...
+    goto UACPrompt
+) else ( goto gotAdmin )
+
+:UACPrompt
+    echo Set UAC = CreateObject^("Shell.Application"^) > "%temp%\getadmin.vbs"
+    set params = %*:"=""
+    echo UAC.ShellExecute "cmd.exe", "/c ""%~s0"" %params%", "", "runas", 1 >> "%temp%\getadmin.vbs"
+
+    "%temp%\getadmin.vbs"
+    del "%temp%\getadmin.vbs"
+    exit /B
+
+:gotAdmin
+    pushd "%CD%"
+    CD /D "%~dp0"
+:--------------------------------------
 echo OFF
 NET SESSION >nul 2>&1
 IF %ERRORLEVEL% EQU 0 (
     ECHO Administrator PRIVILEGES Detected! 
     ECHO This will update your current directory with the
     ECHO latest Vegarlson Asylum client files.
-    ECHO ---------------------------------------------------------
-    ECHO THIS WILL DOWNLOAD FILES INTO THE CURRENT DIRECTORY.
-    ECHO IF YOU DON'T WANT CLIENT FILES HERE, PLEASE PRESS
-    ECHO CONTROL + C to EXIT THIS PROGRAM
-    ECHO ---------------------------------------------------------
     PAUSE
-    del /F uifiles\loadscreens\*.*
-    rsync.exe -avzI update.vegarlson-server.org::vaclient .
+    rsync.exe -avz update.vegarlson-server.org::vaclient .
+
 ) ELSE (
    echo ######## ########  ########   #######  ########  
    echo ##       ##     ## ##     ## ##     ## ##     ## 
