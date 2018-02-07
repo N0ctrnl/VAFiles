@@ -1,0 +1,22 @@
+September 2016
+<br><br>
+9/27/2016<br>
+Charmed NPCs will no longer be able to summon.<br><br>
+
+9/21/2016<br>
+Added a few snow griffin spawns to East Wastes.<br><br>
+
+9/19/2016<br>
+NPCs should no longer path through walls in Velketor's Labyrinth tunnel and castle areas.<br>
+Seahorses in Sirens Grotto are now kos and will see invis. BE WARNED.<br><br>
+
+9/18/2016<br>
+Kromzek giants in Kael should now be on the proper faction.<br><br>
+
+9/17/2016<br>
+Arch Lich in Ssra Temple shouldn't be quite as mean.<br>
+Mobs in Acrylia Caverns will no longer path through walls.<br><br>
+
+9/16/2016<br>
+Adjusted gem drop rate in the City of Mist.<br><br>
+Fipok in Rathe Mountains will now drop his head.<br>
